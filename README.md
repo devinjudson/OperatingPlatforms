@@ -1,1 +1,5 @@
-# OperatingPlatforms
+The objective of the gaming room project is to create a cross-platform web-based game inspired by the existing "Draw It or Lose It" game, originally exclusive to Android. In this game, the goal is to form multiple teams, each composed of several players, and engage in four one-minute rounds. During each round, a random image is selected from a library of pictures. One team takes turns guessing the image, with a time limit for their guesses. If they fail to guess correctly within the allotted time, members of opposing teams can take a shot at answering within 15 seconds.
+Something I feel I did particularly well was the evaluation. Everytime I came back to rework the assignment I found something new to edit or add on.
+Working through a design document helped me when developing the my code becuase it helped me lay out what needed to be done in my head instead of blindly coding.
+I interpreted the user’s needs and implemented them into my software design by working my code around their requests. It is so important to consider the user’s needs when designing so you don't write unneccesary code or make the client unhappy.
+I approachwd designing my software by encorporating a design document to organize my thoughts. I would use this technique again in future projects.
